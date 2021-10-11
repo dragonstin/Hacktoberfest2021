@@ -8,9 +8,8 @@ Repository for Hacktoberfest 2021. Must be a relevant JavaScript project.
 
 * Fork this repository
 * Please keep this structure \<language\>/\<your-project\>
-* Add any code in any language you like
-* Your project need to have a README.md with the instruction to run the code.
-* Add your name and github link to the Contributions.md file.
+* Add any code in any language you like, you can get some project ideas [here](https://github.com/florinpop17/app-ideas).
+* Copy this README.md and fill out each topic with the information for your project.
 * Push PR
 
 
