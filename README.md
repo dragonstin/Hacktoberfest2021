@@ -4,10 +4,10 @@ Repository for Hacktoberfest 2021. Must be a relevant JavaScript project.
 
 <a><img src="banner-light.png" width="1000px"></a>
 
-### How to contribute?
+### How to contribute? 
 
 * Fork this repository
-* Please keep this structure \<language\>/\<your-project\>
+* Please keep the project structure \<language\>/\<your-project\>
 * Add any code in any language you like, you can get some project ideas [here](https://github.com/florinpop17/app-ideas).
 * Copy this README.md and fill out each topic with the information for your project.
 * Push PR
