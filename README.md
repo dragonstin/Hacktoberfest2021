@@ -7,11 +7,11 @@ Repository for Hacktoberfest 2021. Must be a relevant JavaScript project.
 ### How to contribute?
 
 * Fork this repository
-* Create a new file in "Contributions" folder
+* Please keep this structure \<language\>/\<your-project\>
 * Add any code in any language you like
+* Your project need to have a README.md with the instruction to run the code.
+* Add your name and github link to the Contributions.md file.
 * Push PR
-
-
 
 
 ## Rules and Regulations
@@ -34,3 +34,6 @@ Repository for Hacktoberfest 2021. Must be a relevant JavaScript project.
 + Pull requests that are regarded by a project maintainer as a hindrance vs. helping.
 
 + Something that's clearly an attempt to simply +1 your pull request count for October.
+
+
+
