@@ -6,12 +6,17 @@ Repository for Hacktoberfest 2021. Must be a relevant JavaScript project.
 
 ### How to contribute? 
 
-* Fork this repository
+* Fork this repository. Aditional Github tips [here](Git_Cheatsheet_Single_Page.pdf).
+* Add any code in any language you like. Need suggestions? [project ideas](https://github.com/florinpop17/app-ideas).
 * Please keep the project structure \<language\>/\<your-project\>
-* Add any code in any language you like, you can get some project ideas [here](https://github.com/florinpop17/app-ideas).
-* Copy this README.md and fill out each topic with the information for your project.
-* Push PR
-
+* Create a Readme file inside od your project's folder, with the following topics:
+  * Project description (required)
+  * Instructions for running the project (required)
+  * Technologies used (required)
+  * Image of your project (required)
+  * Author information (optional)
+* Push Pull Request
+* All done! :wink:
 
 ## Rules and Regulations
 
