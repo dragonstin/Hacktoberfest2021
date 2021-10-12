@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# to limit size by avoiding the target
+/Rust/target
