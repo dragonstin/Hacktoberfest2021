@@ -1,0 +1,11 @@
+/home/xearch/Desktop/rust_proj/covweed/target/rls/debug/deps/futures_task-618ccb83f76c394f.rmeta: /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/lib.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/spawn.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/arc_wake.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker_ref.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/future_obj.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/noop_waker.rs
+
+/home/xearch/Desktop/rust_proj/covweed/target/rls/debug/deps/futures_task-618ccb83f76c394f.d: /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/lib.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/spawn.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/arc_wake.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker_ref.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/future_obj.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/noop_waker.rs
+
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/lib.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/spawn.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/arc_wake.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker_ref.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/future_obj.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/noop_waker.rs:
