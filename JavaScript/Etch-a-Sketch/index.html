@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etch-a-Sketch</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="sketch.js" defer>
+    </script>
+</head>
+<body>
+    <div class="heading">
+        <h1>ETCH-A-SKETCH</h1>
+    </div>
+    <div id="container">
+        <div class="totalsettings">
+        <div class="options">
+            CHANGE ME
+        <div class="colorcontainer">
+                <input type="color" id="colorpicker" value="#D291BC">
+            </div>
+            <button id="clear">Clear</button>
+            <button id="random">Random</button>
+            <button id="pastel">Pastels</button>
+            <button id="erase">Eraser</button>
+            <button id="toggle">Grid Lines</button>
+        </div>
+        <div class="gridsize">
+            <lable id="size">GRID: 16 X 16</lable>
+            <input type="range" min="1" max="100" value="16" id="slider">
+        </div>
+        </div>
+        <div class="maincontainer"></div>
+
+    </div>
+    <div class="footer">
+        Made by Alekya Dandu
+    </div>
+</body>
+</html>
