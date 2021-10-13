@@ -1,0 +1,11 @@
+/home/xearch/Desktop/rust_proj/covweed/target/rls/debug/deps/futures_core-37d17250a6b7deef.rmeta: /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs
+
+/home/xearch/Desktop/rust_proj/covweed/target/rls/debug/deps/futures_core-37d17250a6b7deef.d: /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs /home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs
+
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs:
+/home/xearch/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs:
