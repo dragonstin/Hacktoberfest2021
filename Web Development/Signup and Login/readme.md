@@ -51,10 +51,11 @@ Javascript, HTML, CSS, PHP, MYSQL
 <br/><br/>
 # Screenshot
 ## Login Page
-![image](images\screenshots\home.png)
+![home](https://user-images.githubusercontent.com/61456837/137170550-d800c394-4976-4da9-9a42-6822eec1ff9a.png)
+
 <br/><br/>
 ## Sign Up Page
-![image](images\screenshots\signup.png)
+![signup](https://user-images.githubusercontent.com/61456837/137170594-f18bac8d-ce7e-4f8b-8a40-c06fbc72d236.png)
 <br/><br/>
 # Author 
 **DEEPAK AGARWAL** <br/><br/>
