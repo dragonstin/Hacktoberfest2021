@@ -1,0 +1,99 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #957DAD;
+    color: #E0BBE4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    background-color: #D291BC;
+    color: #FFDFD3;
+    text-align: center;
+    font-size: 15px;
+    border: 3px solid #FFDFD3;
+    border-radius: 5px;
+}
+
+button:hover{
+    color: #D291BC;
+    background-color:#FFDFD3;
+    border: 3px solid #D291BC;
+}
+
+.options,.gridsize{
+    margin-top:100px;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    height: 380px;
+    width: 180px;
+    color:#957DAD;
+    font-weight: bolder;
+    background-color: #FEC8D8;
+    border: #D291BC solid 5px;
+    justify-content: center;
+    align-content:center;
+    gap:10px;
+    border-radius: 10px;
+}
+
+.totalsettings{
+    float: right;
+}
+
+.gridsize{
+    margin-top: 10px;
+    height: 100px;
+    width: 180px;
+}
+.colorcontainer{
+    position: relative;
+    overflow: hidden;
+    width: 100px;
+    height: 40px;
+    border: solid 2px #FFDFD3;
+    border-radius: 10px;
+  }
+
+  #colorpicker{
+    position: absolute;
+    right: -8px;
+    top: -8px;
+    width: 120px;
+    height: 60px;
+    border: none;
+  }
+
+.maincontainer{
+    padding: 50px;
+    float:left;
+    height:600px;
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(var(--grid-rows),1fr);
+    grid-template-columns: repeat(var(--grid-cols), 1fr);
+}
+
+
+.gridcell{
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
