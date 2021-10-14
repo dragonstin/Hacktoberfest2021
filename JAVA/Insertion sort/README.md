@@ -8,3 +8,4 @@ Run the code with java compiler.
 - Java
 
 # Image
+![image](https://user-images.githubusercontent.com/61788396/137340229-2542a373-8b39-4bab-8461-e9ac9d207860.png)
